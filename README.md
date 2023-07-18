@@ -1,7 +1,7 @@
 # Optimization of Scaling Factor to Improve Breast Cancer Prediction 
 
 
-“MID IV” Machine Intelligence Conference
+“MID IV” Machine Intelligence Conference 2022
 
 
 https://csis.pace.edu/~scha/MID2022/program.html?
